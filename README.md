@@ -7,7 +7,7 @@ The North Face est une entreprise américaine de produits pour les activités de
 
 # Projet
 
-- deployer un système rde recommendations de produits
+- deployer un système de recommendations de produits
 - chercher des nouvelles catégories avec l'extraction de thématiques
 
 # Objectifs
